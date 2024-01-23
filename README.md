@@ -35,5 +35,5 @@ This problem is a bit more advanced version of the well-known math problem calle
 
 ## Potential issues
 
-* `--count 6 --digit 1`` gives 10 while I think it should be 9.
-* `--count 7 --digit 4`` gives 74 while I think it should be 54.
+* `--count 6 --digit 1` gives 10 while I think it should be 9.
+* `--count 7 --digit 4` gives 74 while I think it should be 54.
